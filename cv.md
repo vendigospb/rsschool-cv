@@ -10,3 +10,7 @@
 + JavaScript(basics)
 + HTML(basics)
 + CSS(basics)
+
+*[code example](https://github.com/vendigospb/test2/blob/for-test-cv/primer.js)  *
+
+*Higher education. Saint-Petersburg State Polytechnic University. Department of Plastic Processing of Metals.*
