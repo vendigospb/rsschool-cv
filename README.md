@@ -1,1 +1,1 @@
-# rsschool-cv
+[link](https://vendigospb.github.io/rsschool-cv/cv)
