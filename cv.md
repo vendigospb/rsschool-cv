@@ -1,5 +1,10 @@
 ### My cv
 
 # Artem Makarovskii
+----
+![my photo](cat1.png)
+----
+* **Contacts**
+    E-mail:vendigo1984@gmail.com
+    Tel.8******
 
-![my photo](/rsschool-cv/cat1.png)
