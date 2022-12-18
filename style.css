@@ -1,0 +1,162 @@
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+    background-image: url(imgForCv/gray-glass-with-water-drops-3390982.jpg);
+    background-size: cover;
+    opacity: 1;
+    
+    
+}
+h1{
+    font-size: 3.7rem;
+    text-align:center;
+}
+.spacer{
+    color:darkgoldenrod;
+    border-width: 4px;
+}
+
+.header{
+    display: flex;
+    align-items: center; 
+    
+}
+
+
+.image-logo{
+    margin: 15px;
+    max-width: 20%;
+    border-radius: 5%;
+}
+
+.main-info{
+    margin: 0 auto;
+}
+
+.main{
+    overflow: hidden;
+}
+
+/*-------------------------------------------left-columns----------------------------------------*/
+
+.left-columns{
+    width: 30%;
+    float: left;
+}
+
+
+
+div h2{
+    font-size: 2.5rem;
+    margin-left: 15%;
+}
+
+div p{
+    font-size: 3rem;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li a{
+    display: flex;
+    align-items: center;
+    line-height: 2;
+}
+.contact-item-link{
+    text-decoration: none;
+    color: #122a25;
+}
+.contact-item-link:hover{
+    color:blue;
+}
+.textlinks{font-size: 2rem;
+    margin-left: 3%;
+}
+
+.qualitie-item{
+    font-size: 2rem;
+}
+.qualitie-item::before{
+    content: url("imgForCv/star.png");
+}
+ul li{
+    margin-left: 20%;
+    line-height: 2;
+    
+}
+
+/*--------------------------------------right-columns----------------------------------------------------*/
+.right-columns{
+    margin-left: 40%;
+    
+}
+.h2-right-column{
+    margin-left: 35%
+}
+
+.qualitie-item-right-non-hover{
+    font-size: 2rem;
+    margin-left: -2%;
+    line-height: 1.7;
+}
+
+.qualitie-item-right{
+    font-size: 2rem;
+    margin-left: -2%;
+    line-height: 1.7;
+}
+
+.qualitie-item-right::before{
+    content: url("imgForCv/star.png");
+    }
+.code{
+    font-size: 1.8rem;
+    text-align: start;
+    margin-left: 4%;
+}    
+/*------------------------------------footer-----------------------------------------------------------*/
+
+.footer-content{
+    overflow: hidden; 
+    text-align: center;   
+}
+
+span{
+    margin-left: 34%;
+}
+
+.footer-rs-links{
+    float: right;
+    width: 20%
+}
+.rolling-scopes-image{
+    max-width: 60%;
+    margin-bottom: -23%;
+}
+
+#gitimage{
+    font-size: 2rem;
+}
+.gitlink{
+    margin-left: -22%;
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #122a25;
+}
+.gitlink:hover{
+    color:blue;
+}
+
+.footeryear{
+    font-size: 2rem;
+    margin-left: 28%;
+}
+
+.gitspan{
+    margin-left: -2%;
+}
+
